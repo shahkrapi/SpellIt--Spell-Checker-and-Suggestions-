@@ -1,2 +1,2 @@
-# SpellIt--Spell-Checker-and-Suggestions-
+# Spell-It--Spell-Checker-and-Suggestions-
 An independent platform which allows the users to check spelling and give possible suggestions for the misspelled words using Damerau-Levenshtein algorithm. The algorithm was designed using Python data structures and list comprehension to gives suggestions of correct words. It was devised such that the suggestions appeared according to increasing frequency of usage of words in English.
